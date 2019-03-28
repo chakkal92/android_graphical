@@ -24,7 +24,7 @@
         click on Search button and enter the word to be searched. You will get a list of related words.
         \nClick on particular word to view detailed information.
     \n\nYou can save the word details offline on the detail page, click on Save offline button to do so.
-        \n\nTo view saved words click on Saved button, the list of saved words will be displayed, click on particular word to view it\'s detail information.
+        \n\nTo view saved words click on Saved button, the list of saved words will be displayed, click on particular word to view it\'s detailed information.
     </string>
     <string name="merri_information">Information</string>
     <string name="merri_author_name">Author name:</string>
@@ -32,5 +32,32 @@
     <string name="merri_how_to_use">How to use</string>
     <string name="dismiss">Dismiss</string>
     <string name="mnuhelp">Help</string>
+
+
+    <string name="nf_sugg_enter_keyword">Please enter topic name to get results!</string>
+
+    <string name="nf_author">Author:</string>
+    <string name="nf_published">Published:</string>
+    <string name="nf_detail_story">Detail Story</string>
+    <string name="nf_language">Language:</string>
+    <string name="nf_view_link">View Link</string>
+
+    <string name="nf_save">Save offline</string>
+    <string name="nf_remove">Remove offline</string>
+
+    <string name="nf_last_searched">Last searched:</string>
+
+    <string name="nf_type_a_topic_name_to_view_articles">Type a topic name to view articles…</string>
+
+    <string name="nf_help">To search for a news,
+        click on Search button and enter the keyword. You will get a list of related news articles.
+        \nClick on particular article to view detailed information.
+    \n\nYou can save the article details offline on the detail page, click on Save offline button to do so.
+        \n\nTo view saved articles click on Saved button, the list of saved articles will be displayed, click on particular article to view it\'s detailed information.
+    </string>
+
+    <string name="nf_removed_snck">News article removed from offline!</string>
+    <string name="nf_saved_snck">News article saved offline!</string>
+    <string name="nf_please_wait">Please wait…fetching news!</string>
 
 </resources>
