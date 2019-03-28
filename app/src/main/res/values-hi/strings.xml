@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">GUI</string>
+    <string name="app_name_merriam_wd">Merriam Webster dictionary</string>
+    <string name="app_name_news_feed">News feed</string>
+    <string name="app_name_flight">Flight status tracker</string>
+    <string name="app_name_ny_times">New york times Article Search</string>
+
+    <string name="merri_hint_search">खोज शुरू करने के लिए शब्द दर्ज करें…</string>
+    <string name="merri_input_err">खोज करने के लिए कृपया शब्द दर्ज करें!</string>
+
+    <string name="btn_text_search">खोज</string>
+    <string name="btn_text_saved">बचाया</string>
+
+    <string name="save">ऑफ़लाइन सहेजें</string>
+    <string name="remove">ऑफ़लाइन निकालें</string>
+
+    <string name="merriam_message_wait">कृपया प्रतीक्षा करें…</string>
+    <string name="merriam_msg_saved">शब्द डेटा ऑफ़लाइन सहेजे गए!</string>
+    <string name="merriam_msg_removed">शब्द डेटा ऑफ़लाइन से हटा दिया गया है!</string>
+    <string name="merriam_pronun">उच्चारण:</string>
+    <string name="merriam_definition_s">परिभाषा(एं)</string>
+    <string name="merri_help">शब्द के बारे में जानकारी खोजने के लिए,
+         खोज बटन पर क्लिक करें और खोजे जाने वाले शब्द दर्ज करें। आपको संबंधित शब्दों की एक सूची मिलेगी।
+         \nविस्तृत जानकारी देखने के लिए विशेष शब्द पर क्लिक करें।
+        \n\nआप विवरण पृष्ठ पर ऑफ़लाइन शब्द विवरण सहेज सकते हैं, ऐसा करने के लिए ऑफ़लाइन सहेजें बटन पर क्लिक करें।
+        \n\nसहेजे गए शब्दों को देखने के लिए सहेजे गए बटन पर क्लिक करें, सहेजे गए शब्दों की सूची प्रदर्शित होगी, इसकी विस्तृत जानकारी देखने के लिए विशेष शब्द पर क्लिक करें।
+    </string>
+    <string name="merri_information">जानकारी</string>
+    <string name="merri_author_name">लेखक का नाम:</string>
+    <string name="merri_version_no">संस्करण संख्या:</string>
+    <string name="merri_how_to_use">कैसे इस्तेमाल करे</string>
+    <string name="dismiss">रद्द करें</string>
+    <string name="mnuhelp">मदद</string>
+</resources>

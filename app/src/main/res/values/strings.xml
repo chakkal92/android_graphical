@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GUI</string>
+
+    <string name="app_name_merriam_wd">Merriam Webster dictionary</string>
+    <string name="app_name_news_feed">News feed</string>
+    <string name="app_name_flight">Flight status tracker</string>
+    <string name="app_name_ny_times">New york times Article Search</string>
+
+    <string name="merri_hint_search">Enter word to begin search…</string>
+    <string name="merri_input_err">Please enter a word to make a search!</string>
+
+    <string name="btn_text_search">Search</string>
+    <string name="btn_text_saved">Saved</string>
+
+    <string name="save">Save offline</string>
+    <string name="remove">Remove offline</string>
+
+    <string name="merriam_message_wait">Please wait…</string>
+    <string name="merriam_msg_saved">Word data saved offline!</string>
+    <string name="merriam_msg_removed">Word data removed from offline!</string>
+    <string name="merriam_pronun">Pronunciation:</string>
+    <string name="merriam_definition_s">Definition(s)</string>
+    <string name="merri_help">To search information about a word,
+        click on Search button and enter the word to be searched. You will get a list of related words.
+        \nClick on particular word to view detailed information.
+    \n\nYou can save the word details offline on the detail page, click on Save offline button to do so.
+        \n\nTo view saved words click on Saved button, the list of saved words will be displayed, click on particular word to view it\'s detail information.
+    </string>
+    <string name="merri_information">Information</string>
+    <string name="merri_author_name">Author name:</string>
+    <string name="merri_version_no">Version no.:</string>
+    <string name="merri_how_to_use">How to use</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="mnuhelp">Help</string>
+
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".SplashScreen">
+
+    <Button
+        android:id="@+id/btnDictionary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableStart="@drawable/ic_dict"
+        android:drawableTint="@android:color/black"
+        android:text="@string/app_name_merriam_wd" />
+
+    <Button
+        android:id="@+id/btnNewsFeed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:drawableStart="@drawable/ic_feed"
+        android:drawableTint="@android:color/black"
+        android:text="@string/app_name_news_feed" />
+
+    <Button
+        android:id="@+id/btnFlightTracker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:drawableStart="@drawable/ic_flight"
+        android:drawableTint="@android:color/black"
+        android:text="@string/app_name_flight" />
+
+    <Button
+        android:id="@+id/btnNYTimes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:drawableStart="@drawable/ic_ny_art_search"
+        android:drawableTint="@android:color/black"
+        android:text="@string/app_name_ny_times" />
+
+
+</LinearLayout>

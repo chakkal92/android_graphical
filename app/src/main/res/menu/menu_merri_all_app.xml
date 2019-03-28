@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/mnuNewsFeed"
+        android:title="@string/app_name_news_feed"
+        android:icon="@drawable/ic_feed"
+        android:showAsAction="ifRoom"/>
+    <item android:id="@+id/mnuFlightStatus"
+        android:title="@string/app_name_flight"
+        android:icon="@drawable/ic_flight"
+        android:showAsAction="ifRoom"/>
+    <item android:id="@+id/mnuNYTimes"
+        android:title="@string/app_name_ny_times"
+        android:icon="@drawable/ic_ny_art_search"
+        android:showAsAction="ifRoom"/>
+    <item android:id="@+id/mnuHelp"
+        android:title="@string/mnuhelp"
+        android:icon="@drawable/ic_help"/>
+</menu>
