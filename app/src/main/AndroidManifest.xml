@@ -24,7 +24,11 @@
             android:theme="@style/Theme.AppCompat.Light" />
         <activity android:name=".flight_status.FlightMainActivity" />
         <activity android:name=".news_feed.NFMainActivity" />
-        <activity android:name=".ny_times.NYMainActivity"></activity>
+        <activity android:name=".ny_times.NYMainActivity" />
+
+        <activity
+            android:name=".news_feed.NFNewsDetailActivity"
+            android:theme="@style/Theme.AppCompat.Light" />
     </application>
 
 </manifest>

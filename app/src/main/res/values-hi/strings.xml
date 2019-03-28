@@ -31,4 +31,30 @@
     <string name="merri_how_to_use">कैसे इस्तेमाल करे</string>
     <string name="dismiss">रद्द करें</string>
     <string name="mnuhelp">मदद</string>
+
+    <string name="nf_sugg_enter_keyword">परिणाम प्राप्त करने के लिए विषय नाम दर्ज करें!</string>
+
+    <string name="nf_author">लेखक:</string>
+    <string name="nf_published">प्रकाशित:</string>
+    <string name="nf_detail_story">विस्तार से कहानी</string>
+    <string name="nf_language">भाषा:</string>
+    <string name="nf_view_link">लिंक देखें</string>
+
+    <string name="nf_save">ऑफ़लाइन सहेजें</string>
+    <string name="nf_remove">ऑफ़लाइन निकालें</string>
+
+    <string name="nf_last_searched">अंतिम बार खोजा गया:</string>
+
+    <string name="nf_type_a_topic_name_to_view_articles">लेख देखने के लिए विषय नाम लिखें…</string>
+
+    <string name="nf_help">समाचार खोजने के लिए,
+         सर्च बटन पर क्लिक करें और कीवर्ड दर्ज करें। आपको संबंधित समाचार लेखों की एक सूची मिलेगी।
+        \nविस्तृत जानकारी देखने के लिए विशेष लेख पर क्लिक करें।
+        \n\nआप लेख विवरण को विवरण पृष्ठ पर ऑफ़लाइन सहेज सकते हैं, ऐसा करने के लिए ऑफ़लाइन सहेजें बटन पर क्लिक करें।
+        \n\nसहेजे गए लेखों को देखने के लिए सहेजे गए बटन पर क्लिक करें, सहेजे गए लेखों की सूची प्रदर्शित की जाएगी, इसे विस्तृत जानकारी देखने के लिए विशेष लेख पर क्लिक करें।
+    </string>
+
+    <string name="nf_removed_snck">समाचार लेख ऑफ़लाइन से हटा दिया गया!</string>
+    <string name="nf_saved_snck">समाचार लेख ऑफ़लाइन सहेजा गया!</string>
+    <string name="nf_please_wait">कृपया प्रतीक्षा करें…खबरें ला रहे हैं!</string>
 </resources>
