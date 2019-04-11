@@ -37,6 +37,9 @@
 
         <activity android:name=".flight_status.FlightDetailActivity"
             android:theme="@style/Theme.AppCompat.Light"/>
+
+        <activity android:name=".ny_times.NYNewsDetailActivity"
+            android:theme="@style/Theme.AppCompat.Light"/>
     </application>
 
 </manifest>
