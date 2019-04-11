@@ -4,7 +4,7 @@
     <string name="app_name_merriam_wd">Merriam Webster dictionary</string>
     <string name="app_name_news_feed">News feed</string>
     <string name="app_name_flight">Flight status tracker</string>
-    <string name="app_name_ny_times">New york times Article Search</string>
+    <string name="app_name_ny_times">New york times article search</string>
 
     <string name="merri_hint_search">Enter word to begin search…</string>
     <string name="merri_input_err">Please enter a word to make a search!</string>
@@ -103,5 +103,27 @@
         <item>Arrival</item>
         <item>Departure</item>
     </string-array>
+
+    <string name="ny_sugg_enter">Please enter topic name to get results…</string>
+
+    <string name="ny_save">Save offline</string>
+    <string name="ny_remove">Remove offline</string>
+
+    <string name="ny_snk_msg_removed">News removed from offline!</string>
+    <string name="ny_snk_msg_saved">News saved offline!!</string>
+    <string name="ny_type">Type:</string>
+    <string name="ny_published_on">Published on:</string>
+    <string name="ny_source">Source:</string>
+    <string name="ny_lead_paragraph">Lead paragraph:</string>
+    <string name="ny_view_link">View link</string>
+    <string name="ny_save_btn">SAVE</string>
+
+    <string name="ny_please_wait">Please wait…</string>
+    <string name="ny_help">To search for a news,
+        click on Search button and enter the topic. You will get a list of related news articles.
+        \nClick on particular article to view detailed information.
+    \n\nYou can save the article details offline on the detail page, click on Save offline button to do so.
+        \n\nTo view saved articles click on Saved button, the list of saved articles will be displayed, click on particular article to view it\'s detailed information.</string>
+    <string name="ny_document_type">Document type:</string>
 
 </resources>

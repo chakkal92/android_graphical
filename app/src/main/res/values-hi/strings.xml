@@ -3,7 +3,7 @@
     <string name="app_name_merriam_wd">Merriam Webster dictionary</string>
     <string name="app_name_news_feed">News feed</string>
     <string name="app_name_flight">Flight status tracker</string>
-    <string name="app_name_ny_times">New york times Article Search</string>
+    <string name="app_name_ny_times">New york times article search</string>
 
     <string name="merri_hint_search">खोज शुरू करने के लिए शब्द दर्ज करें…</string>
     <string name="merri_input_err">खोज करने के लिए कृपया शब्द दर्ज करें!</string>
@@ -101,4 +101,26 @@
         <item>आगमन</item>
         <item>प्रस्थान</item>
     </string-array>
+
+    <string name="ny_sugg_enter">परिणाम प्राप्त करने के लिए विषय नाम दर्ज करें…</string>
+
+    <string name="ny_save">ऑफ़लाइन सहेजें</string>
+    <string name="ny_remove">ऑफ़लाइन निकालें</string>
+
+    <string name="ny_snk_msg_removed">ऑफ़लाइन से समाचार निकाला गया!</string>
+    <string name="ny_snk_msg_saved">समाचार ऑफ़लाइन सहेजे गए!</string>
+    <string name="ny_type">प्रकार:</string>
+    <string name="ny_published_on">पर प्रकाशित:</string>
+    <string name="ny_source">स्रोत:</string>
+    <string name="ny_lead_paragraph">पहला परिच्छेद:</string>
+    <string name="ny_view_link">लिंक देखें</string>
+    <string name="ny_save_btn">बचाओ</string>
+
+    <string name="ny_please_wait">कृपया प्रतीक्षा करें…</string>
+    <string name="ny_help">समाचार खोजने के लिए,
+         सर्च बटन पर क्लिक करें और विषय दर्ज करें। आपको संबंधित समाचार लेखों की एक सूची मिलेगी।
+        \nविस्तृत जानकारी देखने के लिए विशेष लेख पर क्लिक करें।
+        \n\nआप लेख विवरण को विवरण पृष्ठ पर ऑफ़लाइन सहेज सकते हैं, ऐसा करने के लिए ऑफ़लाइन सहेजें बटन पर क्लिक करें।
+        \n\nसहेजे गए लेखों को देखने के लिए सहेजे गए बटन पर क्लिक करें, सहेजे गए लेखों की सूची प्रदर्शित की जाएगी, इसे विस्तृत जानकारी देखने के लिए विशेष लेख पर क्लिक करें।</string>
+    <string name="ny_document_type">दस्तावेज़ का प्रकार:</string>
 </resources>
