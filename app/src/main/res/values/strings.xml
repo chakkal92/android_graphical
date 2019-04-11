@@ -60,4 +60,48 @@
     <string name="nf_saved_snck">News article saved offline!</string>
     <string name="nf_please_wait">Please wait…fetching news!</string>
 
+    <string name="flight_sugg_enter_keyword">Please enter airport code to get results!</string>
+    <string name="flight_sugg_select_type">Please select type to get results!</string>
+    <string name="flight_save">Save offline</string>
+    <string name="flight_remove">Remove offline</string>
+    <string name="hint_enter_airport_code">Enter airport code…</string>
+    <string name="flight_no">Flight no.</string>
+    <string name="flight_iata_no">Flight IATA No.</string>
+    <string name="flight_arrival_iatacode">arrival iataCode</string>
+    <string name="flight_departure_iatacode">departure iataCode</string>
+    <string name="flight_status">status</string>
+
+    <string name="flight_please_wait">Please wait…</string>
+    <string name="flight">flight</string>
+    <string name="flight_iata_number">IATA Number:</string>
+    <string name="flight_icao_number">ICAO Number:</string>
+    <string name="flight_number">number:</string>
+    <string name="flight_status_detail">status:</string>
+    <string name="flight_geography">geography</string>
+    <string name="flight_latitude">latitude:</string>
+    <string name="flight_longitude">longitude:</string>
+    <string name="flight_altitude">altitude:</string>
+    <string name="flight_direction">direction:</string>
+    <string name="flight_speed">speed</string>
+    <string name="flight_horizontal">horizontal:</string>
+    <string name="flight_departure">departure</string>
+    <string name="flight_iata_code">IATA Code:</string>
+    <string name="flight_arrival">arrival</string>
+
+    <string name="flight_snck_saved">Flight detail saved offline!</string>
+    <string name="flight_snck_removed">Flight detail removed offline!</string>
+
+    <string name="flight_help">To search for flight, click on Search button and enter airport code and select the
+    direction type (arrival or departure).
+    \nYou will get a list of flight with details.
+    \nClick on particular flight to view its tracking details.
+    \n\nYou can save this information offline from the detail screen, by tapping the Save offline button.
+    \n\nTo view offline saved flight details tap on Saved button.</string>
+
+    <string-array name="flight_type">
+        <item>Select type</item>
+        <item>Arrival</item>
+        <item>Departure</item>
+    </string-array>
+
 </resources>

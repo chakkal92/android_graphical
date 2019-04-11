@@ -57,4 +57,48 @@
     <string name="nf_removed_snck">समाचार लेख ऑफ़लाइन से हटा दिया गया!</string>
     <string name="nf_saved_snck">समाचार लेख ऑफ़लाइन सहेजा गया!</string>
     <string name="nf_please_wait">कृपया प्रतीक्षा करें…खबरें ला रहे हैं!</string>
+
+    <string name="flight_sugg_enter_keyword">परिणाम प्राप्त करने के लिए कृपया एयरपोर्ट कोड डालें!</string>
+    <string name="flight_sugg_select_type">परिणाम प्राप्त करने के लिए कृपया प्रकार चुनें!</string>
+    <string name="flight_save">ऑफ़लाइन सहेजें</string>
+    <string name="flight_remove">ऑफ़लाइन से निकालें</string>
+    <string name="hint_enter_airport_code">एयरपोर्ट कोड दर्ज करें…</string>
+    <string name="flight_no">उड़ान नंबर</string>
+    <string name="flight_iata_no">फ्लाइट IATA नंबर</string>
+    <string name="flight_arrival_iatacode">आगमन IATA कोड</string>
+    <string name="flight_departure_iatacode">प्रस्थान IATA कोड</string>
+    <string name="flight_status">स्थिति</string>
+
+    <string name="flight_please_wait">कृपया प्रतीक्षा करें…</string>
+    <string name="flight">उड़ान</string>
+    <string name="flight_iata_number">IATA संख्या:</string>
+    <string name="flight_icao_number">ICAO संख्या:</string>
+    <string name="flight_number">संख्या:</string>
+    <string name="flight_status_detail">स्थिति:</string>
+    <string name="flight_geography">भूगोल</string>
+    <string name="flight_latitude">अक्षांश:</string>
+    <string name="flight_longitude">देशान्तर:</string>
+    <string name="flight_altitude">ऊंचाई:</string>
+    <string name="flight_direction">दिशा:</string>
+    <string name="flight_speed">गति</string>
+    <string name="flight_horizontal">क्षैतिज:</string>
+    <string name="flight_departure">प्रस्थान</string>
+    <string name="flight_iata_code">IATA कोड:</string>
+    <string name="flight_arrival">आगमन</string>
+
+    <string name="flight_snck_saved">फ्लाइट का विस्तार ऑफ़लाइन सहेजा गया!</string>
+    <string name="flight_snck_removed">फ्लाइट डिटेल ऑफलाइन निकाली!</string>
+
+    <string name="flight_help">उड़ान की खोज करने के लिए, खोज बटन पर क्लिक करें और हवाई अड्डा कोड दर्ज करें और चुनें
+     दिशा प्रकार (आगमन या प्रस्थान)।
+    \nआपको विवरण के साथ उड़ान की एक सूची मिलेगी।
+    \nइसकी ट्रैकिंग जानकारी देखने के लिए विशेष उड़ान पर क्लिक करें।
+    \n\nआप इस जानकारी को विस्तार स्क्रीन से उड़ान का विवरण ऑफ़लाइन सहेजें बटन को टैप करके बचा सकते हैं।
+    \n\nऑफ़लाइन सहेजे गए उड़ान विवरण देखने के लिए सहेजे गए बटन पर टैप करें।</string>
+
+    <string-array name="flight_type">
+        <item>प्रकार चुनें</item>
+        <item>आगमन</item>
+        <item>प्रस्थान</item>
+    </string-array>
 </resources>

@@ -18,17 +18,25 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <activity android:name=".merriam.MerriamMainActivity" />
+
         <activity
             android:name=".merriam.MerriamDetailActivity"
             android:theme="@style/Theme.AppCompat.Light" />
+
         <activity android:name=".flight_status.FlightMainActivity" />
+
         <activity android:name=".news_feed.NFMainActivity" />
+
         <activity android:name=".ny_times.NYMainActivity" />
 
         <activity
             android:name=".news_feed.NFNewsDetailActivity"
             android:theme="@style/Theme.AppCompat.Light" />
+
+        <activity android:name=".flight_status.FlightDetailActivity"
+            android:theme="@style/Theme.AppCompat.Light"/>
     </application>
 
 </manifest>
